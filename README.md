@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sanjana Shet ✨</h1>
 <p align="center">
-  <em>Full-Stack Developer &nbsp;·&nbsp; CS Undergrad &nbsp;·&nbsp; Building real-world web experiences</em>
+  <em>Full-Stack Developer &nbsp;·&nbsp; IS Undergrad &nbsp;·&nbsp; Building real-world web experiences</em>
 </p>
 
 <p align="center">
@@ -12,9 +12,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/sanjana_shet123/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat&logo=leetcode&logoColor=white"/>
-  </a>
+  
 </p>
 
 ---
