@@ -35,4 +35,3 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=postgresql&logoColor=white)
 ![UiPath](https://img.shields.io/badge/UiPath-%230052CC.svg?style=flat&logo=uipath&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
