@@ -1,19 +1,18 @@
-
 <h1 align="center">Hi, I'm Sanjana Shet ✨</h1>
 <p align="center">
   <em>Full-Stack Developer &nbsp;·&nbsp; CS Undergrad &nbsp;·&nbsp; Building real-world web experiences</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanjana-shet">
+  <a href="https://www.linkedin.com/in/sanjana-shet-3852a8300" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/sanjana_shet123">
+  <a href="https://github.com/sanjana_shet123" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/sanjana_shet123">
+  <a href="https://leetcode.com/u/sanjana_shet123/" target="_blank">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat&logo=leetcode&logoColor=white"/>
   </a>
 </p>
@@ -23,23 +22,22 @@
 ### 👩‍💻 About Me
 
 ```js
-const sanjana = {
-  role     : "Full-Stack Developer",
-  stack    : ["React", "Node.js", "Express.js", "MySQL"],
-  languages: ["JavaScript", "Java", "SQL"],
-  interests: ["Distributed Systems", "DSA", "Automation"],
-  currentlyLearning: "Placement prep + Cloud-based systems",
-  funFact  : "I turn coffee into distributed systems ☕"
-};
-```
+// const sanjana = {
+//   role     : "Full-Stack Developer",
+//   stack    : ["React", "Node.js", "Express.js", "MySQL"],
+//   languages: ["JavaScript", "Java", "SQL"],
+//   interests: ["Distributed Systems", "DSA", "Automation"],
+//   currentlyLearning: "Placement prep + Cloud-based systems",
+//   funFact  : "I turn coffee into distributed systems ☕"
+// };
+// ```
 
-- 💻 6th semester CS undergrad with a passion for full-stack development
-- 🌐 Built a **Distributed Weather Monitoring System** using Node.js, React & OpenWeatherMap API
-- 🤖 Hands-on experience with **UiPath Studio** for RPA and automation workflows
-- ☕ Love solving DSA problems in **Java** and cracking SQL challenges on LeetCode
-- 🎯 Actively preparing for campus placements — TCS NQT, Infosys & beyond
+// - 💻 6th semester CS undergrad with a passion for full-stack development
+// - 🌐 Built a **Distributed Weather Monitoring System** using Node.js, React & OpenWeatherMap API
+// - 🤖 Hands-on experience with **UiPath Studio** for RPA and automation workflows
+// - ☕ Love solving DSA problems in **Java** and cracking SQL challenges on LeetCode
+// - 🎯 Actively preparing for campus placements — TCS NQT, Infosys & beyond
 
----
 
 ### 🛠️ Tech Stack
 
@@ -63,15 +61,15 @@ const sanjana = {
 
 ---
 
-### 🚀 Featured Projects
+// <!-- ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🌦️ **Distributed Weather Monitor** | Cloud-based system treating Indian cities as virtual sensor nodes | Node.js, React, OpenWeatherMap, ThingSpeak |
-| 📋 **AttendX** | Faculty attendance notification management system with role-based access | React, Node.js, Express |
-| 🚌 **College Bus Tracker** | Real-time bus tracking system for college campus | React, Node.js |
+// | Project | Description | Tech |
+// |--------|-------------|------|
+// | 🌦️ **Distributed Weather Monitor** | Cloud-based system treating Indian cities as virtual sensor nodes | Node.js, React, OpenWeatherMap, ThingSpeak |
+// | 📋 **AttendX** | Faculty attendance notification management system with role-based access | React, Node.js, Express |
+// | 🚌 **College Bus Tracker** | Real-time bus tracking system for college campus | React, Node.js |
 
----
+// --- -->
 
 ### 📊 GitHub Stats
 
@@ -85,14 +83,14 @@ const sanjana = {
 
 ---
 
-### 🌱 Currently Exploring
+// ### 🌱 Currently Exploring
 
-- ☁️ Distributed Systems — clock sync, mutual exclusion, digital certificates
-- 🔍 DSA in Java — binary search, recursion, linked lists
-- 📊 Advanced SQL — window functions, subqueries, optimizations
-- 🤖 RPA with UiPath Studio — mail automation, data table workflows
+// - ☁️ Distributed Systems — clock sync, mutual exclusion, digital certificates
+// - 🔍 DSA in Java — binary search, recursion, linked lists
+// - 📊 Advanced SQL — window functions, subqueries, optimizations
+// - 🤖 RPA with UiPath Studio — mail automation, data table workflows
 
----
+// ---
 
 <p align="center">
   <i>💡 "Every bug is just a feature waiting to be understood."</i>
